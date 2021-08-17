@@ -65,6 +65,7 @@
             <li>適當運用註解幫助他人快速理解程式碼</li>
             <li>盡量避免多餘的程式碼</li>
           </ul>
+          <li>遵守 JavaScript Standard style</li>
         </ul>
       </td>
       <tr>
